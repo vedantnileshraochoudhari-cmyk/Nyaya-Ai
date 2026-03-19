@@ -10,7 +10,7 @@ scikit-learn
 huggingface-hub
 #transformers
 
-torch==2.0.1
+#torch==2.0.1
 
 httpx
 python-multipart
