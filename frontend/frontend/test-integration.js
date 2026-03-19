@@ -1,7 +1,7 @@
 // Test Backend Integration
 // Run this in browser console to verify backend connectivity
 
-const BASE_URL = "https://nyaya-ai-0f02.onrender.com";
+const BASE_URL = "https://nyaya-backend-bd69.onrender.com";
 
 async function testBackendIntegration() {
   console.log("🚀 Testing Nyaya AI Backend Integration...\n");

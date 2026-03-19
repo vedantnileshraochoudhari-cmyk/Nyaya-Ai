@@ -1,1 +1,1 @@
-export const BASE_URL = "http://127.0.0.1:8000";
+export const BASE_URL = "https://nyaya-backend-bd69.onrender.com";
